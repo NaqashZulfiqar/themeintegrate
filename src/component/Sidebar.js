@@ -55,6 +55,7 @@ export default function Sidebar() {
 
                     <div id="two-column-menu">
                     </div>
+                    
                     <ul className="navbar-nav" id="navbar-nav">
                         <li className="menu-title"><span data-key="t-menu">Menu</span></li>
                         <li className="nav-item">
